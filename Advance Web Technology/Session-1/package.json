@@ -9,6 +9,7 @@
   "author": "Sarthak",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "formidable": "^2.1.1"
   }
 }
