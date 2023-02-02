@@ -1,5 +1,6 @@
 const nodemailer = require('nodemailer');
 const fs = require('fs');
+// bootstrap the path module
 import handlebars from "handlebars";
 let mailTransporter = nodemailer.createTransport({
     service: 'gmail',
